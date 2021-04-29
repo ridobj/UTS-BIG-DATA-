@@ -1,0 +1,5 @@
+import nltk
+print("Nama = Rido bagus juliono\n", "NIM = 04118001\n", "Prodi Sistem Komputer - A\n")
+teks = 'Saya Rido Mahasiswa Narotama Prodi Sistem Komputer'
+s= teks.split()
+print('\n'.join(s))
